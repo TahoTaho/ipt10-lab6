@@ -1,0 +1,31 @@
+Order Code: e71cedf1
+Date and Time: 2024-09-10 14:12:08
+Items:
+Product ID: 1
+Product Name: 1Kg Sugar
+Price: 100 PHP
+Total Price: 100 PHP
+--------------------
+Order Code: d1f81a43
+Date and Time: 2024-09-10 14:12:10
+Items:
+Total Price: 0 PHP
+--------------------
+Order Code: 4cf411ae
+Date and Time: 2024-09-10 14:12:12
+Items:
+Total Price: 0 PHP
+--------------------
+Order Code: 908b08cd
+Date and Time: 2024-09-10 14:12:29
+Items:
+Total Price: 0 PHP
+--------------------
+Order Code: 60d2ab7e
+Date and Time: 2024-09-10 14:14:17
+Items:
+Product ID: 1
+Product Name: 1Kg Sugar
+Price: 100 PHP
+Total Price: 100 PHP
+--------------------
